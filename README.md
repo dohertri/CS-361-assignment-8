@@ -1,5 +1,5 @@
 # CS-361-assignment-8
-Micro Service for CS 361 Partner Project
+Micro Service Communication Contract for CS 361 Partner Project
 
 1. Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call.
 
