@@ -25,4 +25,8 @@ Example Received Data (data is in response):
       });
     });
 
-UML sequence diagram showing how requesting and receiving data work. Make it detailed enough that your partner (and your grader) will understand
+3. UML sequence diagram showing how requesting and receiving data work. Make it detailed enough that your partner (and your grader) will understand
+
+
+![image](https://user-images.githubusercontent.com/114451735/199165607-128c5929-977b-493e-b324-6946779a49cc.png)
+
